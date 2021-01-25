@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+个人简历
 
-You can use the [editor on GitHub](https://github.com/enmls/username.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+个人信息 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+姓    名：季	虎						性    别：男  
+籍    贯：陕西省汉中市					年    龄：22   
+电    话：157-6095-9940  			邮    箱：j1875654024@163.com
+  
 
-### Markdown
+求职意向 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+求职岗位：软件测试工程师
+入职时间：随时到岗
+相关技能 
 
-```markdown
-Syntax highlighted code block
+1.熟悉软件测试流程,软件测试方法;
+2.熟悉常用的测试用例的设计方法，如等价类划分，边界值、正交实验法、流程分析法等；
+3.熟悉使用禅道缺陷管理工具来跟踪Bug；
+4.熟悉Linux常用指令,能在Linux平台下搭建测试环境；
+5.熟悉Mysql数据库，能够使用SQL语句进行数据库增、删、改、查等操作；
+6.熟悉性能测试,使用loadrunner性能测试工具,进行录入脚本,做脚本强化,
+7.熟悉使用工具Postman进行接口测试,以及掌握接口测试流程及基础理论知识，
+8.了解抓包工具Fiddler ;
+9.熟悉APP测试,会使用monkey工具对APP进行测试；
+10.了解Python语言和C语言,能读懂代码,进行简单编写;
+11.了解python+selenium+unittest的使用;
 
-# Header 1
-## Header 2
-### Header 3
+工作经验
 
-- Bulleted
-- List
+2019.11-2020.01                 成都云英网络科技有限公司             软件测试工程师                                    
+岗位职责:
+1、参与需求规格说明书的评审,完善需求规格说明书；
+2、根据需求规格说明书,进行需求分析提取测试项;
+3、根据提取的测试项及其子项编写测试用例;
+4、执行测试用例，使用禅道提交Bug;
+5、使用Postman进行接口测试;
+6、使用Loadrunner进行性能测试;
+7、协助完成测试报告;
+项目经历
 
-1. Numbered
-2. List
+项目一							   优选易购商城系统                   2020.08-2020.01
+项目描述：
+优购是一款B/S架构的Web项目，运营模式类似于天猫,京东这些B2C的类的网站,项目系统由前台和后台两部分构成.
+前台面向用户,包括,首页,商品展示,商品搜索,购物车,订单.用户中心,客服服务等模块
+后台面向商家,包括,商品管理,会员管理,订单处理,运营推广,统计报表等模块
+负责模块：购物车、收藏夹、登录注册、历史记录
+工作内容：
+参与需求评审，根据需求规格说明书，熟悉业务；
+对我负责的登录注册,购物车进行需求提取，提取测试点，编写测试用例；
+使用Postman对购物车,登录注册进行接口测试;
+提交bug，跟踪bug，进行回归测试；
+使用loadrunner对订单做了并发测试；
+编写个人测试报告总结，协助组长完成测试报告的编写；
 
-**Bold** and _Italic_ and `Code` text
+项目二								笔趣小说APP             			2019.03-2020.08
+项目描述：
+笔趣小说APP是一款为大众提供感兴趣的图书的软件。这个软件主要分为个人中心、书库、书架、书友圈等模块。
 
-[Link](url) and ![Image](src)
-```
+负责模块：书库,书架
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+工作内容：
+参与评审需求，提取测试项，设计测试用例，编写、执行测试用例；
+将发现的bug使用禅道进行跟踪管理；
+对开发修复后的bug进行回归测试，积极配合开发定位缺陷,并对修复后的缺陷进行验证和回归测试
+对各种手机系统、型号、屏幕大小、分辨率进行兼容性测试；
+进行弱网，耗电量，流量等专项测试以及安装卸载测试，使用Monkey进行稳定性测试；
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enmls/username.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+项目三							 佳兴婚恋交友系统         			2019.11-2020.03
+项目描述：
+该系统是基于B/S架构开发的一个相亲交友网站,主要通过网络征选+人工服务的形式来进行高效婚配服务,这个系统主要分为:
+首页,个人中心,会员服务,红娘服务,线下活动,恋爱课堂等模块
+负责模块：首页,个人中心
+工作内容：
+阅读需求规格说明书,熟悉业务流程;
+对执行首页,个人中心的功能测试及界面测试的用例;
+进使用禅道对缺陷进行跟踪管理;
+回归测试的用例执行;
+
+教育背景
+
+2017.01-2020.07                 陕西工业职业技术学院            工业过程自动化         大专
+自我评价
+
+1、本人性格随和乐观，积极向上，具有钻研精神，工作认真负责，拥有较强的适应能力。
+2、个人沟通能力突出，善于协调资源处理工作中的各项问题。 
+3、具备强抗压能力，可以积极与开发人员随时做好项目联络，以更好的提升用户体验.
